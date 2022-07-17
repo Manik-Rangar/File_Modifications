@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-filehandling",
+  "version": "1.0.0",
+  "description": "This is assignment of File handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manik",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
